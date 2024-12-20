@@ -723,6 +723,7 @@ footer ul li a{
 
   .text-container{
     width: 50%;
+    text-align: left;
   }
 
   .text-container h2{
