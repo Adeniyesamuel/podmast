@@ -104,6 +104,8 @@ nav {
 
 .close {
     display: none;
+    color: #fff;
+    margin-top: -400px;
 }
 
 #check:checked ~ .nav-wrapper {
@@ -275,8 +277,8 @@ nav {
     margin: 30px 0;
     text-align: center;
     color: #fff;
-    padding: 50px;
-    justify-items: center;
+    padding: 50px 60px;
+    /* justify-items: center; */
     overflow: hidden;
 }
 .services{
@@ -323,7 +325,7 @@ nav {
     width: 300px;
     height: 350px;
     border-radius: 10px;
-    margin-left: 60px;
+    margin-left: 75px;
   }
 
 
