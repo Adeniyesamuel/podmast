@@ -481,7 +481,7 @@ margin-right: 10px;
 footer{
     background: #0a0e12;
     color: #fff;
-    padding: 40px 20px;
+    padding: 40px 0px 20px 40px;
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
 }
@@ -551,7 +551,7 @@ footer ul li a{
 } 
 
 .text-center p span{
-    margin-left:20px;
+    margin-left:40px;
 }
 
 
